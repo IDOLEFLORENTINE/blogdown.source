@@ -1,6 +1,6 @@
 ---
 title: "Test de R Markdown"
-author: "FIRSTNAME FAMILYNAME"
+author: "FLORENTINE AIMEE IDOLE OLANGUENA"
 date: 2018-09-24T18:36:00-01:00
 categories: ["R"]
 tags: ["R Markdown", "website"]

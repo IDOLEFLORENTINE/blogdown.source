@@ -1,13 +1,13 @@
-baseurl = "https://USERNAME.github.io/"
-title = "FIRSTNAME FAMILYNAME"
-copyright = "&copy; 2018 FIRSTNAME FAMILYNAME (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))"
+baseurl = "https://IDOLEFLORENTINE.github.io/"
+title = "FLORENTINE AIMEE IDOLEOLANGUENA"
+copyright = "&copy; 2018 FLORENTINE AIMEE IDOLE IDOLEOLANGUENA (license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
-publishDir = "../USERNAME.github.io"
+publishDir = "../IDOLEFLORENTINE.github.io"
 relativeurls = true
 
 # Enable comments by entering your Disqus shortname
@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "FIRSTNAME FAMILYNAME"
+  name = "FLORENTINE AIMEE IDOLE OLANGUENA"
   role = "Student at UMONS (University of Mons, Belgium)"
 
   # Organizations/Affiliations.
@@ -50,14 +50,14 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "FIRSTNAME.FAMILYNAME@student.umons.ac.be"
+  email = "Florentine.IDOLEOLANGUENA@student.umons.ac.be"
   address = "Plaine de Nimy/Pentagone 3D, 8 avenue du champ de mars, 7000 Mons, Belgium"
   office_hours = "Please, send me an email for appointment"
   phone = "+32/0XX.XX.XX.XX"
   skype = ""
   telegram = ""
 
-  # Enable Keybase in Contact widget by entering your keybase.io username.
+  # Enable Keybase in Contact widget by entering your keybase.io IDOLEFLORENTINE.
   keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -207,17 +207,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:FIRSTNAME.FAMILYNAME@student.umons.ac.be"
+    link = "mailto:Florentine.IDOLEOLANGUENA@student.umons.ac.be"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/USERNAME"
+    link = "//github.com/IDOLEFLORENTINE"
 
 #  [[params.social]]
 #    icon = "twitter"
 #    icon_pack = "fa"
-#    link = "//twitter.com/USERNAME"
+#    link = "//twitter.com/IDOLEFLORENTINE"
 
 #  [[params.social]]
 #    icon = "stack-overflow"

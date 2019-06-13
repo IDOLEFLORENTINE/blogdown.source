@@ -174,7 +174,7 @@ To include a single tweet, pass the tweet’s ID from the tweet's URL as paramet
 
 ## GitHub gist
 
-    {{</* gist USERNAME GIST-ID  */>}}
+    {{</* gist IDOLEFLORENTINE GIST-ID  */>}}
 
 ## Speaker Deck
 

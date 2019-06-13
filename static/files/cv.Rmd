@@ -1,7 +1,7 @@
 ---
 title: "CV"
-author: "FIRSTNAME FAMILYNAME"
-email: FIRSTNAME.FAMILYNAME@student.umons.ac.be
+author: "FLORENTINE AIMEE IDOLE OLANGUENA"
+email: Florentine.IDOLEOLANGUENA@student.umons.ac.be
 output: 
   pdf_document:
     latex_engine: pdflatex
@@ -10,7 +10,7 @@ fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=1in
-github: USERNAME
+github: IDOLEFLORENTINE
 jobtitle: Etudiant à l'Université de Mons
 keywords: Biologie, Science des données
 linkcolor: blue
